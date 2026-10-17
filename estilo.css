@@ -1,0 +1,28 @@
+body {
+    background-image: url(images.jpg);
+
+}
+header {
+    background-color: rgb(249, 249, 251);
+    text-align: center;
+
+}
+h1 {
+    font-size: 38px 20px;
+}
+h2 {
+    color: rgb(1, 1, 11);
+    font-size: 30px;
+}
+p {
+    font-size: 18px;
+}
+footer {
+    background-color: black;
+    color: aliceblue;
+    font-size: 18px;
+}
+.oscuro {
+    background-color: #222;
+    color: white;
+}
